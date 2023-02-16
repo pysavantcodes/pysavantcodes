@@ -1,7 +1,6 @@
 <h1>Yo 👋, I'm Pysavant</h1>
-<h3>A young passionate developer from Lagos, Nigeria</h3>
+<h3>A young passionate `<developer>` from Lagos, Nigeria</h3>
 
-- 🌱 I’m currently learning **Dart, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://pysavant.netlify.app](https://pysavant.netlify.app)
 
