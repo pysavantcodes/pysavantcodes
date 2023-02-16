@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pysavant</h1>
+<h1>Yo 👋, I'm Pysavant</h1>
 <h3>A young passionate developer from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter**
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love physics and maths so much 😂**
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&count_private=true&hide_border=true&theme=radical" /></div>  
 
 <br/>  
 
