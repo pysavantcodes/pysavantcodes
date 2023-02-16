@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pysavant</h1>
-<h3 align="center">A young passionate developer from Lagos, Nigeria</h3>
+<h1>Hi 👋, I'm Pysavant</h1>
+<h3>A young passionate developer from Lagos, Nigeria</h3>
 
 - 🌱 I’m currently learning **Dart, Flutter**
 
@@ -10,6 +10,11 @@
 - 📫 How to reach me **uwakblessing1@gmail.com**
 
 - ⚡ Fun fact **I love physics and maths so much 😂**
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
