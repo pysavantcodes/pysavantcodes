@@ -2,11 +2,11 @@
 <h3>A young passionate developer from Lagos, Nigeria</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://pysavant.netlify.app](https://pysavant.netlify.app)
+- 👨‍💻 Check out my portfolio at [https://pysavant.netlify.app](https://pysavant.netlify.app)
 
 - 💬 Ask me about **react, python, javascript**
 
-- 📫 How to reach me **pysavego@gmail.com**
+- 📫 How to reach me - **pysavego@gmail.com**
 
 - ⚡ Fun fact **I love physics so much 😂**
 
