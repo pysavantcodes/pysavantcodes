@@ -8,7 +8,7 @@
 
 - 📫 How to reach me - **pysavego@gmail.com**
 
-- ⚡ Fun fact **I love physics so much 😂**
+- ⚡ Fun fact - **I love physics so much 😂**
 
 ## Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=pysavantcodes&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
