@@ -1,5 +1,5 @@
-<h1>Yo 👋, I'm Pysavant</h1>
-<h3>A young passionate developer from Lagos, Nigeria</h3>
+<h1 style="font-family: 'Lucida Console';">Yo 👋, I'm Pysavant</h1>
+<h3 style="font-family: 'Lucida Console';">A young passionate developer from Lagos, Nigeria</h3>
 
 
 - 👨‍💻 Check out my portfolio at [https://pysavant.netlify.app](https://pysavant.netlify.app)
