@@ -10,8 +10,6 @@
 
 - ⚡ Fun fact - **I love physics so much 😂**
 
-<marquee>Yoo Xup</marquee>
-
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true" /><br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pysavantcodes&theme=radical&hide_border=false&theme=transparent)<br/><br/>
