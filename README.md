@@ -18,7 +18,22 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pysavantcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p class="marquee">Your scrolling text here</p>
+.marquee {
+  animation: scroll 15s linear infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
 
 <br/>  
 
