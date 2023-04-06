@@ -11,7 +11,7 @@
 - ⚡ Fun fact - **I love physics so much 😂**
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true" /><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true"/><br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pysavantcodes&theme=radical&hide_border=false&theme=transparent)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pysavantcodes&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
