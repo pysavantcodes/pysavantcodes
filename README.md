@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact - **I love physics so much 😂**
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)
