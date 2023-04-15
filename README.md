@@ -13,7 +13,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pysavantcodes&theme=radical&hide_border=false&theme=transparent)<br/><br/>
 ![Language Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=pysavantcodes&theme=github_dark)
 
