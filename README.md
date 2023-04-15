@@ -10,11 +10,14 @@
 
 - ⚡ Fun fact - **I love physics so much 😂**
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pysavantcodes&theme=radical&hide_border=false&theme=transparent)<br/><br/>
 ![Language Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=pysavantcodes&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)
+
 
 
 
