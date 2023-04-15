@@ -22,7 +22,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pysavantcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>  
+<br/>
 
 ## Connect with me 
 <div align="center" style="display:'flex'">
