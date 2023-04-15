@@ -15,6 +15,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pysavantcodes&theme=radical&hide_border=false&theme=transparent)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pysavantcodes&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&theme=github_dark)
+
+![Language Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=pysavantcodes&theme=github_dark)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=pysavantcodes&icon=0&color=0)](https://visitcount.itsvg.in)
 
