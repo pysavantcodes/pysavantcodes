@@ -1,14 +1,14 @@
-<h1 style="font-family: 'Lucida Console';">Yo 👋, I'm Pysavant</h1>
-<h3 style="font-family: 'Lucida Console';">A young passionate developer from Lagos, Nigeria</h3>
+Yo 👋, I'm Pysavant
+====================
+Mobile & Web Engineer
+------------------------------------------------
 
+Passionate young developer with a lifelong fascination with technology. I thrive on problem-solving and stay up-to-date with the latest tech advancements. Research is my fuel, and I enjoy exploring new concepts and pushing boundaries. Let's connect and shape the future together!
 
-- 👨‍💻 Check out my portfolio at [https://pysavant.netlify.app](https://pysavant.netlify.app)
-
-- 💬 Ask me about **react, python, javascript**
-
-- 📫 How to reach me - **pysavego@gmail.com**
-
-- ⚡ Fun fact - **I love physics so much 😂**
+* 👨‍💻 Check out my portfolio at [https://pysavant.netlify.app](https://pysavant.netlify.app)
+* 💬 Ask me about **react, python, javascript**
+* 📫 How to reach me - **pysavego@gmail.com**
+* ⚡ Fun fact - **I love physics so much 😂**
 
 
 
