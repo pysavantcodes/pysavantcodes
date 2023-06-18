@@ -10,8 +10,7 @@
 
 - ⚡ Fun fact - **I love physics so much 😂**
 
-<a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/pysavantcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ## Github Stats
 <a href="http://www.github.com/pysavantcodes"><img src="https://github-readme-stats.vercel.app/api?username=pysavantcodes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pysavant's GitHub stats" /></a>
@@ -34,9 +33,8 @@ src="https://img.shields.io/github/followers/pysavantcodes?logo=github&style=for
 <a href="https://github.com/pysavantcodes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/pysavantcodes" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/pysavantcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://instagram.com/_pysavant.codes" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
