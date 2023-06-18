@@ -30,9 +30,9 @@
 
 ## Connect with me 
 <div align="center" style="display:'flex'">
-<a href="https://github.com/pysavantcodes" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<a href="https://www.twitter.com/pysavantcodes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/pysavantcodes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 <a href="https://www.github.com/iamEtornam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/pysavantcodes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <a href="https://instagram.com/_pysavant.codes" target="_blank">
