@@ -1,15 +1,6 @@
-Yo 👋, I'm Pysavant
-====================
-Mobile & Web Engineer
-------------------------------------------------
+Pysavant - Software Engineer
 
 Passionate young developer with a lifelong fascination with technology. I thrive on problem-solving and stay up-to-date with the latest tech advancements. Research is my fuel, and I enjoy exploring new concepts and pushing boundaries. Let's connect and shape the future together!
-
-* 👨‍💻 Check out my portfolio at [https://pysavant.netlify.app](https://pysavant.netlify.app)
-* 💬 Ask me about **react, python, javascript**
-* 📫 How to reach me - **pysavego@gmail.com**
-* ⚡ Fun fact - **I love physics so much 😂**
-
 
 
 ## Github Stats
